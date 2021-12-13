@@ -1,0 +1,84 @@
+
+
+.background1 {
+    background-color: white;
+}
+.title1 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:Black;
+    text-shadow: 0 0 3px goldenrod, 0 0 5px goldenrod;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(26, 26, 26);
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: goldenrod;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .backtotop {
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:Black;
+    text-shadow: 0 0 3px goldenrod, 0 0 5px goldenrod;
+
+  }
+
+  .center {
+   justify-content: center;
+  }
+
+  .ytubevideo{
+    position: relative;
+    width: 100%;
+    padding-bottom: 20%; 
+    height: 0;
+  }
+ 
+
+  .videotitle {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+  }
+
+  .tabtext {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    background-color: white;
+    background-size: 25px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0;
+
+  }
